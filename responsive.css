@@ -1,0 +1,76 @@
+@media (min-width: 480px) and (max-width: 542px) {
+    .menuContainer{
+        width: 100%;
+    }
+    .logoMenu{
+        margin: 5px;
+        padding: 10px;
+    }
+   .logo h2{
+        padding: 5px;
+        font-size: 20px;
+
+    }
+    .icone img{
+        width: 20px;
+        margin: 5px;
+    }
+    .produtosInfo .banner{
+        width: 100%;
+    }
+    .texto h2, h3{
+        font-size: 15px;
+    }
+    .imgBanner{
+        max-width: 100%;    
+    }
+    .containerProdutos{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .cardImg{
+        width: 50%;
+        margin: 0 auto;
+        padding-top: 20px;
+    }
+    .cardImg img {
+        object-fit: cover;
+        width: 250px;
+        height:250px;
+        margin: 0 auto;
+        padding: 10px;
+        
+    }
+    .detalhesImg{
+        margin: 10px;
+    }
+    .contato{
+        display: inline-block;
+
+    }
+   
+    .newsleatter{
+        margin: 50px;
+        display: inline;
+    }
+    .newsleatter h3{
+        margin-left: 40px;
+    }
+    .newsleatter input{
+        width: 80%;
+        display: inline-block;
+        border-radius: 2px;
+        margin-left: 40px;
+        margin-top: 10px;
+    }
+    button{
+        width: 80%;
+        border-radius: 2px;
+        margin-left: 40px;
+        margin-top: 10px;
+    }
+
+
+
+}
